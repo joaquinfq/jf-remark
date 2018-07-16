@@ -1,6 +1,6 @@
 {
     "name": "jf-remark",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Plugins for working with markdown documents and remark parser.",
     "main": "index.js",
     "repository": {

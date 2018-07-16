@@ -11,7 +11,7 @@ Plugins for working with markdown documents and remark parser.
 
 ## Español
 
-Provee de un conjunto de plugins para ser usados con [https://github.com/remarkjs/remark](remark) que transforman bloques de texto Markdown.
+Provee de un conjunto de plugins para ser usados con [remark](https://github.com/remarkjs/remark) que transforman bloques de texto Markdown.
 
 Algunos plugins funcionan como preprocesadores generando contenido markdown a partir de archivos o bloques de texto markdown.
 
