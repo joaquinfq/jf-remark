@@ -1,0 +1,24 @@
+{
+    "name": "jf-remark",
+    "version": "1.0.0",
+    "description": "Plugins for working with markdown documents and remark parser.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joaquinfq/jf-remark.git"
+    },
+    "keywords": [
+        "include",
+        "markdown",
+        "remark"
+    ],
+    "author": "Joaquín Fernández <public@joaquinfernandez.net>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joaquinfq/jf-remark/issues"
+    },
+    "homepage": "https://github.com/joaquinfq/jf-remark#readme",
+    "dependencies": {
+        "regexcape": "^1.0.1"
+    }
+}
